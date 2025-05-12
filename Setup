@@ -1,0 +1,14 @@
+# CTF: The Flowery Challenge
+
+Welcome to the Flowery Challenge CTF!
+## Instructions for Deployment:
+
+### 1. Clone the Repository:
+First, clone this repository to your local machine using Git. Open your terminal and run:
+
+```bash
+git clone https://github.com/NadaBadri/CTF_FLOWER.git
+cd CTF_FLOWER
+
+#To host the ctf locally 
+python3 -m http.server 8080
