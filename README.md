@@ -1,5 +1,5 @@
 # CTF_FLOWER
-Return to the Flowery Mount Hua Sect
+
 When the petals fell,
 the hero took his last breath.
 Nine sects were there —
